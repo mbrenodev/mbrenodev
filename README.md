@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá pessoal 👋
+
+Sou desenvolvedor fullstackjr.  
+
 
 <!--
 **mbrenodev/mbrenodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
