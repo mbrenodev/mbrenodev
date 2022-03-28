@@ -1,6 +1,15 @@
-### Olá pessoal 👋
+### Olá 👋
 
-Sou desenvolvedor fullstackjr.  
+👨‍🎓 Sou estudande de analise é desenvolvuimento de sistemas e esses são alguns dos projetos que desenvolvir.  
+
+🧑‍💻 Tecnologias:
+
+- JavaScript
+- Angular
+- NodeJs
+- Docker
+- Heroku
+- ShellScript
 
 
 <!--
