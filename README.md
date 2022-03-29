@@ -2,15 +2,6 @@
 
 👨‍🎓 Sou estudande de analise é desenvolvuimento de sistemas e esses são alguns dos projetos que desenvolvir.  
 
-🧑‍💻 Tecnologias:
-
-- JavaScript
-- Angular
-- NodeJs
-- Docker
-- Heroku
-- ShellScript
-
 
 <!--
 **mbrenodev/mbrenodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
